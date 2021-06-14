@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1  group-title="1TV",1TV
+http://212.224.98.205:2200/TR-N/1TV_HD-afg/index.m3u8?token=RED_hEoL_kV-8IwAOBxEkeoX8g==,1623546038.4914806624
+#EXTINF:-1  group-title="3SAT",3sat
+http://212.224.98.207:2200/NL-N/3sat_HD-de/index.m3u8?token=RED_aMyVPkDmyvomNkofauvAIQ==,1623411955.4914806624
+#EXTINF:-1  group-title="ANT",ANT1 HD
+http://212.224.98.211:2200/B-EX/ANT1_HD-gr/tracks-v2a1/mono.m3u8?token=RED_n9pIU7SCeRaEkYog7ct-WQ%3D%3D%2C1622879759.3742543580
+#EXTINF:-1  group-title="ARABIA",AL ARABIA
+http://livecdnh3.tvanywhere.ae/hls/alarabiya/04.m3u8
+#EXTINF:-1  group-title="ARD",ARD DAS ERSTE HD
+http://212.224.98.208:2200/NL-N/Das_Erste_HD-de/index.m3u8?token=RED_Q-4nLtpI4WJ7wNwKJh9Mwg==,1623411864.4914806624
+#EXTINF:-1  group-title="ARENA",Arena Sports 1
+http://212.224.98.212:2200/EX/ArenaSport1SR-balkan/tracks-v1a1/mono.m3u8?token=RED_fbbWjpWKCLyS7yf1ZAJihA%3D%3D%2C1622959961.3742543580
+#EXTINF:-1  group-title="ARENA",Arena Sports 2
+http://212.224.98.206:2200/EX/ArenaSport2SR-balkan/index.m3u8?token=RED_SJDUwjMDYViR94pXLsu8Wg==,1622960105.3742543580
+#EXTINF:-1  group-title="ARENA",Arena Sports 3
+http://212.224.98.204:2200/EX/ArenaSport3SR-balkan/index.m3u8?token=RED_71JgW1hXWhs0OgMxhNUHeg==,1622960158.3742543580
+#EXTINF:-1  group-title="ARENA",Arena Sports 4
+http://212.224.98.213:2200/EX/ArenaSport4SR-balkan/index.m3u8?token=RED_v3ZgtVBiN0fTboaRFyv4uA==,1622960213.3742543580
+#EXTINF:-1  group-title="ARENA",Arena Sports 5
+http://212.224.98.207:2200/EX/ArenaSport5SR-balkan/index.m3u8?token=RED_Go2-PTPZE0N8AdA0izJf-A==,1622960254.3742543580
+#EXTINF:-1  group-title="BBC",BBC One
+http://212.224.98.212:2200/NL-N/BBC_One_HD-uk/index.m3u8?token=RED_diuCTSKyxWqUDmGdY3Pvnw==,1623555264.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport 1
+http://212.224.98.208:2200/EX/bein1hd-ar/index.m3u8?token=RED_5uAtvX2-X2n6Gj7PnS478g==,1623412097.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport 2
+http://212.224.98.206:2200/EX/bein2hd-ar/index.m3u8?token=RED_45Dk6y-ukvaB9oBHoIlx6Q==,1623412112.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport 3
+http://212.224.98.205:2200/EX/bein3hd-ar/index.m3u8?token=RED_1hFFgZI0sH5pfE-LTCKcLQ==,1623412122.4914806624
+#EXTINF:-1  group-title="BeIN",beIN Sport 4
+http://212.224.98.208:2200/EX/bein4hd-ar/index.m3u8?token=RED_Yrxe5IIkcHO2GwK2VAJDvQ==,1623412132.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport 5
+http://212.224.98.205:2200/EX/bein5hd-ar/index.m3u8?token=RED_Nmk4qkYRbFvHwlzRLRY8Xg==,1623412149.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport 6
+http://212.224.98.211:2200/EX/bein6hd-ar/index.m3u8?token=RED_DG8-dysRRzPORe2gyf_qUQ==,1623412159.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport 7
+http://212.224.98.204:2200/EX/bein7hd-ar/index.m3u8?token=RED_RP8PF4KPYXOfnWHV_PKSsw==,1623412171.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport France 1
+http://212.224.98.208:2200/EX/BEINSPORT_1_FR-fr/index.m3u8?token=RED_ZhFF0KClhey6KcIgAfAD5A==,1623453269.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport France 2
+http://212.224.98.205:2200/EX/BEINSPORT_2_FR-fr/index.m3u8?token=RED_DhoDOAA-ka_bB2nG6lxoXw==,1623453298.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport Premium 1
+http://212.224.98.208:2200/EX/bein8hd-ar/index.m3u8?token=RED_JsbOf0J5837aoArxfmx6fg==,1623412183.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport Premium 2
+http://212.224.98.213:2200/EX/bein9hd-ar/index.m3u8?token=RED_O0Nr5ZwmWjQQwu_yY8i3Vg==,1623412193.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sport Premium 3
+http://212.224.98.205:2200/EX/bein10hd-ar/index.m3u8?token=RED_2HGQK91DHgzo7CzwnAgAmg==,1623412207.4914806624
+#EXTINF:-1  group-title="BeIN",BeIN Sports MAX 1
+http://212.224.98.207:2200/EX/BEIN_SPORTS_MAX1HD-ar/index.m3u8?token=RED_5tai_2096d9xZJB8chULQg==,1623324963.5617254893
+#EXTINF:-1  group-title="BeIN",BeIN Sports MAX 2
+http://212.224.98.213:2200/EX/BEIN_SPORTS_MAX2HD-ar/index.m3u8?token=RED_TOTqydseF74yMJZKxgUofw==,1623325043.5617254893
+#EXTINF:-1  group-title="ERT",ERT Spor HD
+http://ert-live-bcbs15228.siliconweb.com:80/media/ert_sports/ert_sports_4Mbps.m3u8
+#EXTINF:-1  group-title="ESPN",ESPN
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1  group-title="ESPN",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1  group-title="FRANCE",France 2
+http://212.224.98.213:2200/EX/FR_France_2HD-fr/index.m3u8?token=RED_osqY4WxxY3LHuvIjVcc5LQ==,1623482279.4914806624
+#EXTINF:-1  group-title="HRT",HRT 2
+http://212.224.98.210:2200/EX/HRT_2_HD-balkan/tracks-v1a1/mono.m3u8?token=RED_jvensttxNIDijnJEiJrbaA%3D%3D%2C1623545803.4914806624
+#EXTINF:-1  group-title="ITV",ITV 1
+http://212.224.98.208:2200/NL/itv-uk/index.m3u8?token=RED_9pTQfwUBgDhyufPSNG46bQ==,1623555177.4914806624
+#EXTINF:-1  group-title="ITV",ITV 1 London
+http://212.224.98.212:2200/NL-N/ITV_London_HD-uk/index.m3u8?token=RED_Y03I8OKlDPjpINtyys3ZiQ==,1623555208.4914806624
+#EXTINF:-1  group-title="M6",M6
+http://212.224.98.206:2200/EX/FR_M6_HD-fr/index.m3u8?token=RED_2HoacKSfSdl4__CINnZcXw==,1623453250.4914806624
+#EXTINF:-1  group-title="MATCH",MATCH Premier
+http://212.224.98.210:2200/EX/Matchpremier-ru/index.m3u8?token=RED_pC2asLgem5f_7TscQlzgDQ==,1623452905.4914806624
+#EXTINF:-1  group-title="MATCH",MATCH!
+http://212.224.98.211:2200/EX/match-ru/index.m3u8?token=RED_juWbMxB7tlzpNXIfnn-5sA==,1623452828.4914806624
+#EXTINF:-1  group-title="NPO",NPO 1
+http://212.224.98.213:2200/NLH/Npo_1_HD_NL-nl/index.m3u8?token=RED_hgI1HZ82lJgjA0T2bgplug==,1623482483.4914806624
+#EXTINF:-1  group-title="OPTUS",OPTUS Sport 1
+http://212.224.98.206:2200/EX/Optus_Sports_1_HD_-uk/index.m3u8?token=RED_nrqikjrTedE52ES67d4L4Q==,1623482181.4914806624
+#EXTINF:-1  group-title="PERVITY",Perviy Kanal
+http://212.224.98.207:2200/EX/perviykanalhd-ru/index.m3u8?token=RED_x24qJaoIsA_9KqnOZaTU5A==,1623453079.4914806624
+#EXTINF:-1  group-title="RAI",RAI HD
+http://46.105.112.116/?watch=NL/rai1-it&token=RED_-kOzyhiBMgyxeXdx4p98Cw==,1622860992.3742543580&t=0&s=3&p=1&c=TR&r=19&lb=1&m3u8
+#EXTINF:-1  group-title="RESHET",RESHET 13
+http://212.224.98.206:2200/EX/13_Reshet_IL-isr/index.m3u8?token=RED_NlNkgBejc548PS54XOW7hA==,1622944861.3742543580
+#EXTINF:-1  group-title="RMC",RMC Sport 1
+http://212.224.98.213:2200/EX/FR_RMC_SPORT1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_JChdsLtZX11X8_2ZL6Z05Q%3D%3D%2C1623555794.4914806624
+#EXTINF:-1  group-title="RMC",RMC Sport 2
+http://212.224.98.206:2200/EX/FR_RMC_SPORT2_HD-fr/index.m3u8?token=RED_68Af-kKSWb0my_Bh282C2g==,1623555839.4914806624
+#EXTINF:-1  group-title="RMC",RMC Sport 3
+http://212.224.98.211:2200/EX/FR_RMC_SPORT3_HD-fr/index.m3u8?token=RED_Hxo7tZ0y7tRlTlIC2Dgabw==,1623555865.4914806624
+#EXTINF:-1  group-title="ROSSYIA",Rossiya 1
+http://212.224.98.212:2200/EX/Russia1-ru/index.m3u8?token=RED_Qqr_IxB6d82kGjoJusMmhg==,1623453168.4914806624
+#EXTINF:-1  group-title="RTL",RTL 2 HD
+http://212.224.98.213:2200/NL-N/RTL_2_HD-de/index.m3u8?token=RED_NrHNdBaX4ltTKtQCbefPmA==,1623411934.4914806624
+#EXTINF:-1  group-title="RTL",RTL HD
+http://212.224.98.213:2200/NL-N/RTL_HD-de/index.m3u8?token=RED_LTylUv8EvWD5myV6lfB2Mg==,1623411898.4914806624
+#EXTINF:-1  group-title="RTP",RTP 1
+http://212.224.98.206:2200/NL-N/RTP1_HD-por/index.m3u8?token=RED_gZFspraPVMpuGAG9LiKYhA==,1623555352.4914806624
+#EXTINF:-1  group-title="RTS",RTS deux
+http://212.224.98.207:2200/NL/rtsdeuxhd-fr/index.m3u8?token=RED_YMzTPR0AmezqrckFxnMaMg==,1623555755.4914806624
+#EXTINF:-1  group-title="SIC",SiC
+http://212.224.98.210:2200/NL/sichd-por/index.m3u8?token=RED_zUGgrBRzDHyuvd7dUJUwHw==,1623555556.4914806624
+#EXTINF:-1  group-title="SONY",SONY Sport TEN 1
+http://212.224.98.212:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/mono.m3u8?token=RED_3Iybg1w2cScrxpiiiuyt0Q%3D%3D%2C1623411605.4914806624
+#EXTINF:-1  group-title="SONY",SONY Sport TEN 2
+http://212.224.98.210:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/mono.m3u8?token=RED_TCKqsqN2krrQj_FP_NwxYw%3D%3D%2C1623411542.4914806624
+#EXTINF:-1  group-title="SPORT KLUB",Sport Klub 1
+http://212.224.98.209:2200/EX/SPORT_KLUB_1_HD-balkan/index.m3u8?token=RED_Cj_8v-BZOMZRUh45YZxG1g==,1622960301.3742543580
+#EXTINF:-1  group-title="SPORT KLUB",Sport Klub 2
+http://212.224.98.212:2200/EX/Sport_Klub_2-balkan/index.m3u8?token=RED_xvWfuOeOk0-y1fz925bpbQ==,1622960335.3742543580
+#EXTINF:-1  group-title="SPORT KLUB",Sport Klub 3
+http://212.224.98.210:2200/EX/Sport_Klub_3-balkan/index.m3u8?token=RED_d9UX4W-wm4N6zF4MJoyxCQ==,1622960381.3742543580
+#EXTINF:-1  group-title="SPORT KLUB",Sport Klub 4
+http://212.224.98.206:2200/EX/Sport_Klub_4-balkan/index.m3u8?token=RED_TD3fWkTLundIxPPRazE9pQ==,1622960411.3742543580
+#EXTINF:-1  group-title="SPORT KLUB",Sport Klub 5
+http://212.224.98.211:2200/EX/Sport_Klub_5-balkan/index.m3u8?token=RED_F4xqwIByvJ25LeVAFAIrBQ==,1622960471.3742543580
+#EXTINF:-1  group-title="SPORT KLUB",Sport Klub 6
+http://212.224.98.211:2200/EX/Sport_Klub_6-balkan/index.m3u8?token=RED_RG9JYT4eJtAiqY3hs-6WRA==,1622960500.3742543580
+#EXTINF:-1  group-title="SPORT KLUB",Sport TV 1
+http://212.224.98.211:2200/NL-N/Sport_TV_1_HD-por/index.m3u8?token=RED_86UlL14LBH6Qlq2L8c8nqw==,1623555635.4914806624
+#EXTINF:-1  group-title="SPORT KLUB",Sport TV 2
+http://212.224.98.207:2200/NL-N/Sport_TV_2_HD-por/index.m3u8?token=RED_mTtvyse0g_3yyWLu2FVNrA==,1623555585.4914806624
+#EXTINF:-1  group-title="SPORT KLUB",Sport TV 3
+http://212.224.98.207:2200/NL-N/Sport_TV_3_HD-por/index.m3u8?token=RED_dZbg1oNlkzMLWPkw-pjhzg==,1623555607.4914806624
+#EXTINF:-1  group-title="SRF",SRF zwei
+http://212.224.98.204:2200/NL/srfzweihd-de/index.m3u8?token=RED_DeqPsCnxATCAaWjY20Oh7w==,1623546289.4914806624
+#EXTINF:-1  group-title="TENNIS",The Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1  group-title="TF1",TF1
+http://212.224.98.205:2200/EX/FR_TF1_HD-fr/index.m3u8?token=RED_bNby-VywFlBHt2tt1wmf1Q==,1623453225.4914806624
+#EXTINF:-1  group-title="TRT",TRT 1 HD
+http://212.224.98.207:2200/TR/trt1hd-tr/index.m3u8?token=RED_vewXdY5kYQ9ZY2N4PoTjbQ==,1622870217.3742543580
+#EXTINF:-1  group-title="TRT",TRT 1 HD (1080)
+http://212.224.98.205:2200/TR-N/TRT_1_HD-tr/tracks-v1a1/mono.m3u8?token=RED_OrBuA7YYoRhiI_OW-BQqsw%3D%3D%2C1623326010.4914806624
+#EXTINF:-1  group-title="TRT",TRT Spor HD
+http://46.105.112.116/?watch=TR-N/TRT_SPOR_HD-tr&token=RED_Clk5FKNt-Bny1T-BzIZsCg==,1622271208.5329571585&t=1&s=13&p=1&c=TR&r=19&lb=0x
+#EXTINF:-1  group-title="TVI",TVI
+http://212.224.98.209:2200/NL/tvi-por/index.m3u8?token=RED_5ADv7YEcPFHTn4VhZ1mcxw==,1623555516.4914806624
+#EXTINF:-1  group-title="TVP",TVP 1
+http://212.224.98.210:2200/EX/tvp1hd-po/tracks-v1a1/mono.m3u8?token=RED_zDtsdaMtLXd7SNzh14rOjQ%3D%3D%2C1623411209.4914806624
+#EXTINF:-1  group-title="TVP",TVP 2
+http://212.224.98.213:2200/EX/tvp2hd-po/tracks-v1a1/mono.m3u8?token=RED_53hrGQ1DruDCvBj4VyeX0Q%3D%3D%2C1623555087.4914806624
+#EXTINF:-1  group-title="TVP",TVP Sport
+http://212.224.98.207:2200/EX/tvpsporthd-po/index.m3u8?token=RED_rx4fk_39MQDvnv9rB8Lg3g==,1623411261.4914806624
+#EXTINF:-1  group-title="YES",YES Sport 1
+http://212.224.98.210:2200/EX/YES_SPORT1_FHD-isr/index.m3u8?token=RED_gaWXNPxc7DJoHBM3-wm1qQ==,1622944951.3742543580
+#EXTINF:-1  group-title="ZDF",ZDF HD
+http://212.224.98.204:2200/NL-N/ZDF_HD-de/index.m3u8?token=RED_XyVwNkVl5Pmjdk7RN9JPfw==,1623411833.4914806624
